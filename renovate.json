@@ -1,0 +1,7 @@
+{
+  "automerge": true,
+  "automergeStrategy": "rebase",
+  "extends": [
+    "config:base"
+  ]
+}
