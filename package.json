@@ -24,7 +24,7 @@
     "@types/react-dom": "18.2.24",
     "commitizen": "4.3.0",
     "cz-conventional-changelog": "3.3.0",
-    "eslint": "8.57.0",
+    "eslint": "9.0.0",
     "prettier": "3.2.5",
     "typescript": "5.4.4"
   },
