@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@types/node": "22.15.30",
-    "@types/react": "19.1.6",
+    "@types/react": "19.1.7",
     "@types/react-dom": "19.1.6",
     "commitizen": "4.3.1",
     "cz-conventional-changelog": "3.3.0",
